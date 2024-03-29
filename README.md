@@ -11,3 +11,4 @@ El archivo `.gitignore` es una herramienta útil que le permite a Git ignorar ci
 3. **¿Cómo configuraría el archivo .gitignore?**
    - Se crea un archivo llamado `.gitignore` en la raíz del repositorio.
    - En este archivo, se especifica los nombres de los archivos o directorios que Git ignorara. Cada línea del archivo representa un patrón a ignorar.
+   
